@@ -10,5 +10,5 @@ Mod loader for No Time
 5. Select the mods folder you just created
 6. Add your mods to the mods folder and you're done
 
-#Modders
+# Modders
 
