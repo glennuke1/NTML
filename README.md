@@ -12,3 +12,4 @@ Mod loader for No Time
 
 # Modders
 
+Documentation for making mods is found [here](https://github.com/glennuke1/NTML/wiki/How-to-make-a-simple-mod)
