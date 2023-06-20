@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\NTML\NTML\bin\Debug\NTML.exe.config
+C:\Users\admin\source\repos\NTML\NTML\bin\Debug\NTML.exe
+C:\Users\admin\source\repos\NTML\NTML\bin\Debug\NTML.pdb
+C:\Users\admin\source\repos\NTML\NTML\obj\Debug\NTML.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\NTML\NTML\obj\Debug\NTML.Properties.Resources.resources
+C:\Users\admin\source\repos\NTML\NTML\obj\Debug\NTML.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\NTML\NTML\obj\Debug\NTML.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\NTML\NTML\obj\Debug\NTML.exe
+C:\Users\admin\source\repos\NTML\NTML\obj\Debug\NTML.pdb
+C:\Users\admin\source\repos\NTML\NTML\obj\Debug\NTML.ModLoader.resources
