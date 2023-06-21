@@ -1,6 +1,8 @@
 # NTML
 Mod loader for No Time
 
+Download [Here](https://drive.google.com/u/0/uc?id=1zlNCZTBk2z91CjrP2ziz47nclrFXOQgs&export=download)
+
 # Installation
 
 1. Download the NTML
